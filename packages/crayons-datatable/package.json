@@ -1,8 +1,8 @@
 {
-  "name": "@freshworks/crayons-datatable",
+  "name": "cr-mnr-datatable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/freshworks/crayons.git"
+    "url": "https://github.com/arvindanta/crayons.git"
   },
   "keywords": [
     "web-components",
@@ -11,7 +11,7 @@
     "typescript",
     "components"
   ],
-  "author": "Freshworks Inc",
+  "author": "Arvind",
   "version": "0.0.1",
   "description": "Crayons Datatable for Developer Platform",
   "main": "dist/index.cjs.js",
@@ -87,8 +87,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@freshworks/crayons": "file:../crayons-core",
-    "@stencil/core": "^2.8.1",
+    "cr-mnr-core": "file:../crayons-core",
+    "@stencil/core": "^2.9.0",
     "moment-mini": "^2.24.0"
   },
   "publishConfig": {

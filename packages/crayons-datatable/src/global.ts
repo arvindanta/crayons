@@ -1,1 +1,1 @@
-import '@freshworks/crayons';
+import 'cr-mnr-core';

@@ -1,8 +1,8 @@
 {
-  "name": "@freshworks/crayons",
+  "name": "cr-mnr-core",
   "repository": {
     "type": "git",
-    "url": "https://github.com/freshworks/crayons.git"
+    "url": "https://github.com/arvindanta/crayons.git"
   },
   "keywords": [
     "web-components",
@@ -11,8 +11,8 @@
     "typescript",
     "components"
   ],
-  "author": "Freshworks Inc",
-  "version": "2.13.2",
+  "author": "Arvind",
+  "version": "0.0.1",
   "description": "Crayons for Developer Platform",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
@@ -98,14 +98,14 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@stencil/core": "^2.8.1",
+    "@stencil/core": "^2.9.0",
     "moment-mini": "^2.24.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/freshworks/crayons/issues"
+    "url": "https://github.com/arvindanta/crayons/issues"
   },
-  "homepage": "https://github.com/freshworks/crayons#readme"
+  "homepage": "https://github.com/arvindanta/crayons#readme"
 }

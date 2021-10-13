@@ -50,7 +50,7 @@ export const config: Config = {
       file: 'dist/docs.json',
     },
     reactOutputTarget({
-      componentCorePackage: `@freshworks/${packageName}`, // name in the package.json should be used
+      componentCorePackage: `cr-mnr-datatable`, // name in the package.json should be used
       proxiesFile: './crayons-react/src/components.ts',
 
       // lazy load -> code splitting
