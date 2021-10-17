@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@0.1.0...cr-mnr-datatable@0.2.0) (2021-10-17)
+
+
+### Features
+
+* **cr-mnr-datatable:** change styling of line-height ([7614568](https://github.com/arvindanta/crayons/commit/76145687b4d3791cfd142bbe639d11f2790b88d4))
+
+
+
+
+
 # 0.1.0 (2021-10-17)
 
 
