@@ -44,7 +44,7 @@
     "clean:react": "rimraf react",
     "add:react": "npm run clean:react && npx mkdirp react",
     "tscdisable": "node fileutil",
-    "build:react": "npm run tscdisable && tsc --project tsconfig-react.json --module es6 --outDir react",
+    "build:react": "npm run tscdisable && tsc --project tsconfig-react.json",
     "a11y": "run-p start a11y:run",
     "a11y:install": "npm i -g @axe-core/cli",
     "a11y:run": "wait-on http://localhost:3334/ && npm run a11y:install && axe http://localhost:3334 --show-errors --exit --tags wcag2aa",
@@ -75,6 +75,7 @@
     "react-docgen-typescript-loader": "^3.7.2",
     "react-dom": "^17.0.2",
     "react-is": "^17.0.2",
+    "react-output-target": "^0.0.8",
     "sass-loader": "^10.1.1",
     "semantic-release": "^17.4.2",
     "ts-loader": "^9.2.1",
@@ -97,5 +98,6 @@
   "bugs": {
     "url": "https://github.com/freshworks/crayons/issues"
   },
-  "homepage": "https://github.com/freshworks/crayons#readme"
+  "homepage": "https://github.com/freshworks/crayons#readme",
+  "sideEffects": false
 }
