@@ -9,9 +9,9 @@
     "version": {
       "message": "chore(release): publish",
       "ignore": [
-        "packages/**/**.md",
-        "packages/**/**.mdx",
-        "packages/**/**.e2e.ts"
+        "packages/**/*.md",
+        "packages/**/*.mdx",
+        "packages/**/*.e2e.ts"
       ]
     }
   }
