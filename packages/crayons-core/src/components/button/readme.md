@@ -6,7 +6,7 @@ fw-button displays a button on the user interface and enables performing specifi
 ```html live
 <section>
 <fw-label value="Try themes"></fw-label>
-<fw-button color="secondary"> OK 123</fw-button>
+<fw-button color="secondary"> OK 1232</fw-button>
 <fw-button color="danger"> Don't Click </fw-button>
 <fw-button color="link"> Link Button </fw-button>
 <fw-button color="text"> Plain Text Button </fw-button>
