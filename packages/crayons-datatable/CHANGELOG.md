@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@0.2.1...cr-mnr-datatable@0.2.2) (2021-10-18)
+
+**Note:** Version bump only for package cr-mnr-datatable
+
+
+
+
+
 ## [0.2.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@0.2.0...cr-mnr-datatable@0.2.1) (2021-10-17)
 
 
