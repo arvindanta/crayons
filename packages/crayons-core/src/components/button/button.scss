@@ -61,7 +61,7 @@ $btn-font-weight: $font-weight-500;
   &.disabled,
   &[disabled] {
     cursor: not-allowed;
-    opacity: 0.4;
+    opacity: 0.5;
   }
 
   &--primary {
