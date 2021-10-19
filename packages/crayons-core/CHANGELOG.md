@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@0.1.3...cr-mnr-core@2.0.0) (2021-10-19)
+
+
+### Features
+
+* **cr-mnr-core:** changes ([e214f11](https://github.com/arvindanta/crayons/commit/e214f11b0412a38032111d2ec3bd3736d2915a77))
+* **cr-mnr-core:** changes ([cf26690](https://github.com/arvindanta/crayons/commit/cf26690e1ba78793fe927b59570cc6ff4ec9d184))
+
+
+### BREAKING CHANGES
+
+* **cr-mnr-core:** chanegs
+* **cr-mnr-core:** changes
+
+
+
+
+
 ## [0.1.3](https://github.com/arvindanta/crayons/compare/cr-mnr-core@0.1.2...cr-mnr-core@0.1.3) (2021-10-19)
 
 
