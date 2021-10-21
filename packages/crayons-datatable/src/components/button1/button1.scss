@@ -109,7 +109,7 @@ $btn-font-weight: $font-weight-500;
   &--danger {
     color: $btn-danger-color;
     background-color: $btn-danger-bg;
-    border: 1px solid $btn-danger-border;
+    border: 2px solid $btn-danger-border;
     background-image: linear-gradient(
       to bottom,
       $btn-danger-bg,
