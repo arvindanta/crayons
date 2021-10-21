@@ -4,7 +4,10 @@
     "master",
     "next",
     "next-major",
-    "version-change",
+    {
+      "name": "version-change",
+      "prerelease": true
+    },
     {
       "name": "beta",
       "prerelease": true
