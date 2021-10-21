@@ -1,3 +1,10 @@
+## [2.0.3-version-change.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.2...cr-mnr-datatable@2.0.3-version-change.1) (2021-10-21)
+
+
+### Features
+
+* **cr-mnr-core:** styling btn ([bd85261](https://github.com/arvindanta/crayons/commit/bd8526127fef8602fc3359b4b23915d62366f84c))
+
 ## [2.0.2](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.1...cr-mnr-datatable@2.0.2) (2021-10-21)
 
 
