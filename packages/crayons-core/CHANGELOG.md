@@ -1,3 +1,10 @@
+## cr-mnr-core [3.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.0.0...cr-mnr-core@3.0.1) (2021-10-21)
+
+
+### Bug Fixes
+
+* **cr-mnr-core:** button style fix ([7eb6c55](https://github.com/arvindanta/crayons/commit/7eb6c5559ea58bf9d1c6c338285c3988da284923))
+
 # cr-mnr-core [3.0.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@2.0.0...cr-mnr-core@3.0.0) (2021-10-21)
 
 
