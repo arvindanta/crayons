@@ -6,7 +6,7 @@ tag=v$(node -e "process.stdout.write(require('./lerna.json').version)");
 npm i --package-lock-only
 
 # Auto-tag and auto-commit like usual
-git commit --all -m ${tag} --no-verify 
+HUSKY_SKIP_HOOKS=1 git commit --all -m ${tag} 
 git tag -a ${tag} -m ${tag}
-git push --tags --no-verify
-git push --no-verify
+HUSKY_SKIP_HOOKS=1  git push --tags
+HUSKY_SKIP_HOOKS=1  git push
