@@ -1,3 +1,19 @@
+## cr-mnr-datatable [2.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.0...cr-mnr-datatable@2.0.1) (2021-10-21)
+
+
+### Bug Fixes
+
+* **cr-mnr-core:** style changes ([019af1a](https://github.com/arvindanta/crayons/commit/019af1ab10347ea874c89663e4aa8fa0c28f10fb))
+* **cr-mnr-datatable:** style changes ([369716a](https://github.com/arvindanta/crayons/commit/369716acc0823cb0b74565376ec5f57a0b0ef2c3))
+
+
+
+
+
+### Dependencies
+
+* **cr-mnr-core:** upgraded to 3.0.0
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
