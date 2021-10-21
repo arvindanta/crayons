@@ -1,3 +1,11 @@
+## [2.0.2](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.1...cr-mnr-datatable@2.0.2) (2021-10-21)
+
+
+### Bug Fixes
+
+* **cr-mnr-core:** button style fix ([7eb6c55](https://github.com/arvindanta/crayons/commit/7eb6c5559ea58bf9d1c6c338285c3988da284923))
+* **cr-mnr-datatable:** style button change ([080d974](https://github.com/arvindanta/crayons/commit/080d97405e3623ed67ec40fa5cc89307da0c8b97))
+
 ## [2.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.0...cr-mnr-datatable@2.0.1) (2021-10-21)
 
 
