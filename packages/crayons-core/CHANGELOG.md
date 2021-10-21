@@ -1,3 +1,10 @@
+# cr-mnr-core [3.1.0-version-change.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.0.1...cr-mnr-core@3.1.0-version-change.1) (2021-10-21)
+
+
+### Features
+
+* **cr-mnr-core:** styling btn ([bd85261](https://github.com/arvindanta/crayons/commit/bd8526127fef8602fc3359b4b23915d62366f84c))
+
 ## cr-mnr-core [3.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.0.0...cr-mnr-core@3.0.1) (2021-10-21)
 
 
