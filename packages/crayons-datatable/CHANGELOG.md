@@ -1,65 +1,15 @@
-## [2.0.3-version-change.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.2...cr-mnr-datatable@2.0.3-version-change.1) (2021-10-21)
-
-
-### Features
-
-* **cr-mnr-core:** styling btn ([bd85261](https://github.com/arvindanta/crayons/commit/bd8526127fef8602fc3359b4b23915d62366f84c))
-
-## [2.0.2](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.1...cr-mnr-datatable@2.0.2) (2021-10-21)
-
-
-### Bug Fixes
-
-* **cr-mnr-core:** button style fix ([7eb6c55](https://github.com/arvindanta/crayons/commit/7eb6c5559ea58bf9d1c6c338285c3988da284923))
-* **cr-mnr-datatable:** style button change ([080d974](https://github.com/arvindanta/crayons/commit/080d97405e3623ed67ec40fa5cc89307da0c8b97))
-
-## [2.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.0...cr-mnr-datatable@2.0.1) (2021-10-21)
-
-
-### Bug Fixes
-
-* **cr-mnr-core:** changes ([e125714](https://github.com/arvindanta/crayons/commit/e1257143e80b12a073af788996c6b70811cd5eea))
-* **cr-mnr-core:** style ([62e96dd](https://github.com/arvindanta/crayons/commit/62e96dd67d72e2c889e9a7f1b925889c71328500))
-* **cr-mnr-core:** style changes ([019af1a](https://github.com/arvindanta/crayons/commit/019af1ab10347ea874c89663e4aa8fa0c28f10fb))
-* **cr-mnr-core:** style changes ([dc80bae](https://github.com/arvindanta/crayons/commit/dc80bae62b52a8e239c8da58c9027796a453a594))
-* **cr-mnr-core:** style changes ([ad1f9f8](https://github.com/arvindanta/crayons/commit/ad1f9f8b7ca5ed8a3986a6c38520dc1005418d43))
-* **cr-mnr-core:** styleing changes ([2545ea7](https://github.com/arvindanta/crayons/commit/2545ea73cc58d9ed83a035efb9f9b4051120b415))
-* **cr-mnr-datatable:** style changes ([369716a](https://github.com/arvindanta/crayons/commit/369716acc0823cb0b74565376ec5f57a0b0ef2c3))
-
-
-### Features
-
-* **cr-mnr-core:** chanegs ([8e164b2](https://github.com/arvindanta/crayons/commit/8e164b2a01a5bc3d94ccc8290b4abb03bc6fd6ee))
-* **cr-mnr-core:** changes styles ([73f1e37](https://github.com/arvindanta/crayons/commit/73f1e37f864f45612f96db23f49352e336ec0876))
-* **root:** changes ([212ee00](https://github.com/arvindanta/crayons/commit/212ee00c4f47883fd98a4458940844469b88c5f3))
-
-
-### BREAKING CHANGES
-
-* **cr-mnr-core:** chasnd
-* **root:** chanegs
-* **cr-mnr-core:** changes styles
-
-## cr-mnr-datatable [2.0.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.0...cr-mnr-datatable@2.0.1) (2021-10-21)
-
-
-### Bug Fixes
-
-* **cr-mnr-core:** style changes ([019af1a](https://github.com/arvindanta/crayons/commit/019af1ab10347ea874c89663e4aa8fa0c28f10fb))
-* **cr-mnr-datatable:** style changes ([369716a](https://github.com/arvindanta/crayons/commit/369716acc0823cb0b74565376ec5f57a0b0ef2c3))
-
-
-
-
-
-### Dependencies
-
-* **cr-mnr-core:** upgraded to 3.0.0
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.3-version-change.2](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.3-version-change.1...cr-mnr-datatable@2.0.3-version-change.2) (2021-10-22)
+
+**Note:** Version bump only for package cr-mnr-datatable
+
+
+
+
 
 ## [2.0.1-beta.8](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.1-beta.4...cr-mnr-datatable@2.0.1-beta.8) (2021-10-21)
 
