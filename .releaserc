@@ -5,6 +5,11 @@
     "next",
     "next-major",
     {
+      "name": "monorepo",
+      "prerelease": true,
+      "channel": "canary"
+    },
+    {
       "name": "version-change",
       "prerelease": true
     },

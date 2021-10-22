@@ -1,3 +1,13 @@
+## cr-mnr-datatable [2.0.3-monorepo.1](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.0.2...cr-mnr-datatable@2.0.3-monorepo.1) (2021-10-22)
+
+
+
+
+
+### Dependencies
+
+* **cr-mnr-core:** upgraded to 3.1.0-monorepo.1
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
