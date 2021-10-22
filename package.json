@@ -16,7 +16,7 @@
     "check-version": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna version --conventional-commits --no-push --no-git-tag-version",
     "clean-changelog": "npm i -g lerna-clean-changelogs-cli && lcc **",
     "update-lock": "sh ./release.sh",
-    "update-version": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna version --conventional-commits --no-push && npm run clean-changelog && npm run update-lock",
+    "update-version": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna version --conventional-commits --no-push --no-git-tag-version && npm run clean-changelog && npm run update-lock",
     "update-version:ci": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna version --conventional-commits --no-push --yes && npm run clean-changelog && npm run update-lock",
     "release": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna publish from-package --no-commit-hooks --dist-tag canary",
     "release:ci": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 lerna publish from-package --no-commit-hooks --dist-tag canary --yes",
