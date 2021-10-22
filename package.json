@@ -27,7 +27,6 @@
     "lint:styles": "stylelint '**/*.scss' '**/.vuepress/**/*.vue'",
     "lint:ts": "eslint .",
     "lint:ts:fix": "eslint . --fix",
-    "msr": "HUSKY_INSTALL=1 HUSKY_SKIP_HOOKS=1 multi-semantic-release --sequential-init",
     "lint-staged": "lint-staged",
     "storybook:build": "rimraf storybook-dist && build-storybook -c docs/.storybook -o docs/storybook-dist",
     "storybook:dev": "lerna run build --stream && start-storybook -p 9001 -c docs/.storybook",
@@ -80,9 +79,7 @@
     "write-file-webpack-plugin": "^4.5.1"
   },
   "dependencies": {
-    "lerna": "^4.0.0",
-    "lerna-clean-changelogs-cli": "^2.0.2",
-    "multi-semantic-release": "^2.9.1"
+    "lerna": "^4.0.0"
   },
   "config": {
     "commitizen": {
