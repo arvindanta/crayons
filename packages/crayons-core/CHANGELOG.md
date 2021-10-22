@@ -1,3 +1,16 @@
+# [3.1.0-monorepo.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.0.1...cr-mnr-core@3.1.0-monorepo.1) (2021-10-22)
+
+
+### Bug Fixes
+
+* **button:** css change ([d01a3b9](https://github.com/arvindanta/crayons/commit/d01a3b97b3af357702cef7297d362b60fcb7d38f))
+* **button:** stylechange ([0ac011b](https://github.com/arvindanta/crayons/commit/0ac011b7184a0ddc37ae9a2e2b2b032335791abb))
+
+
+### Features
+
+* **cr-mnr-core:** styling btn ([bd85261](https://github.com/arvindanta/crayons/commit/bd8526127fef8602fc3359b4b23915d62366f84c))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
