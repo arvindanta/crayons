@@ -1,3 +1,10 @@
+# [3.1.0-monorepo.2](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.1...cr-mnr-core@3.1.0-monorepo.2) (2021-10-22)
+
+
+### Bug Fixes
+
+* **bttuto:** btn12 ([50fd0ab](https://github.com/arvindanta/crayons/commit/50fd0ab339d7d33640415086a014ea75f038b598))
+
 # [3.1.0-monorepo.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.0.1...cr-mnr-core@3.1.0-monorepo.1) (2021-10-22)
 
 
