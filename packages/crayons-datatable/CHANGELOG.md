@@ -3,24 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [2.1.0-monorepo.8](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.7...cr-mnr-datatable@2.1.0-monorepo.8) (2021-10-22)
-
-**Note:** Version bump only for package cr-mnr-datatable
-
-
-
-
-
-# [2.1.0-monorepo.7](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.1...cr-mnr-datatable@2.1.0-monorepo.7) (2021-10-22)
-
+## [2.1.0-monorepo.7](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.1...cr-mnr-datatable@2.1.0-monorepo.7) (2021-10-22)
 
 ### Bug Fixes
 
-* **button:** btn changes ([8ee79d1](https://github.com/arvindanta/crayons/commit/8ee79d1e8382def629790cec5ee8c7e9a52a2be9))
-
-
-
-
+- **button:** btn changes ([8ee79d1](https://github.com/arvindanta/crayons/commit/8ee79d1e8382def629790cec5ee8c7e9a52a2be9))
 
 ## [2.1.0-monorepo.6](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.1...cr-mnr-datatable@2.1.0-monorepo.6) (2021-10-22)
 
