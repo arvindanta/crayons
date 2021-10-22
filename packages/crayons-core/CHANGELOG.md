@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.0-monorepo.25](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.24...cr-mnr-core@3.1.0-monorepo.25) (2021-10-22)
+
+### Bug Fixes
+
+- **fw-pwob:** asd ([946f74b](https://github.com/arvindanta/crayons/commit/946f74b79a00135a7192a28da3dea98dc3762bbe))
+
 ## [3.1.0-monorepo.24](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.14...cr-mnr-core@3.1.0-monorepo.24) (2021-10-22)
 
 ### Bug Fixes
