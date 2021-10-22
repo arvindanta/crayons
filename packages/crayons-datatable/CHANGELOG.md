@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.0-monorepo.12](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.8...cr-mnr-datatable@2.1.0-monorepo.12) (2021-10-22)
+
+### Bug Fixes
+
+- **packages:** bug changes ([dd83bfd](https://github.com/arvindanta/crayons/commit/dd83bfd9db8f16654429b317f5444b165870340c))
+- **root:** asdas ([799671a](https://github.com/arvindanta/crayons/commit/799671ae17b0fee5cdba63cd5559eb9a71718948))
+
 ## [2.1.0-monorepo.11](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.8...cr-mnr-datatable@2.1.0-monorepo.11) (2021-10-22)
 
 ### Bug Fixes
