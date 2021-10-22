@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0-monorepo.14](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.13...cr-mnr-core@3.1.0-monorepo.14) (2021-10-22)
+
+
+### Bug Fixes
+
+* **b1123:** bsndns ([83f525d](https://github.com/arvindanta/crayons/commit/83f525d0a2fdf8e737688d15abb34eaf2ebe64d7))
+
+
+
+
+
 # [3.1.0-monorepo.13](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.7...cr-mnr-core@3.1.0-monorepo.13) (2021-10-22)
 
 
