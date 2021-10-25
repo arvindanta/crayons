@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0-monorepo.30](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.29...cr-mnr-core@3.1.0-monorepo.30) (2021-10-25)
+
+
+### Features
+
+* **btno:** sl ([e9b9780](https://github.com/arvindanta/crayons/commit/e9b9780efd0243d8ff313fe986932a2928a9c15b))
+
+
+
+
+
 ## [3.1.0-monorepo.29](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.24...cr-mnr-core@3.1.0-monorepo.29) (2021-10-25)
 
 ### Bug Fixes
