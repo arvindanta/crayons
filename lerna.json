@@ -8,7 +8,7 @@
     },
     "version": {
       "message": "chore(release): publish",
-      "ignoreChanges": ["**/*.mdx", "**/*.e2e.ts"]
+      "ignoreChanges": ["**/*.md", "**/*.mdx", "**/*.e2e.ts"]
     }
   }
 }
