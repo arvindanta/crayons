@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0-monorepo.33](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.32...cr-mnr-core@3.1.0-monorepo.33) (2021-10-25)
+
+
+### Bug Fixes
+
+* **fw-button:** btn style ([9b4405e](https://github.com/arvindanta/crayons/commit/9b4405e1d99faba45d1f23b12d85f36ed14b9902))
+
+
+
+
+
 ## [3.1.0-monorepo.32](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.31...cr-mnr-core@3.1.0-monorepo.32) (2021-10-25)
 
 ### Bug Fixes
