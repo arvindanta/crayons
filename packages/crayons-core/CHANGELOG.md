@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0-monorepo.37](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.36...cr-mnr-core@3.1.0-monorepo.37) (2021-10-26)
+
+
+### Features
+
+* **fw-nnb:** asd ([401cc29](https://github.com/arvindanta/crayons/commit/401cc29c2893e7c67eaef8f5658c0e2dc39dd433))
+
+
+
+
+
 # [3.1.0-monorepo.36](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.34...cr-mnr-core@3.1.0-monorepo.36) (2021-10-26)
 
 
