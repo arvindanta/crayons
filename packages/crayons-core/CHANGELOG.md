@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.3.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.2.0...cr-mnr-core@3.3.0) (2021-10-26)
+
+
+### Features
+
+* **fwbtn1:** bss ([02368a7](https://github.com/arvindanta/crayons/commit/02368a77e24ca79e19724066415318088e085e2f))
+
+
+
+
+
 # [3.2.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0...cr-mnr-core@3.2.0) (2021-10-26)
 
 
