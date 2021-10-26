@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.42...cr-mnr-core@3.1.0) (2021-10-26)
+
+**Note:** Version bump only for package cr-mnr-core
+
+
+
+
+
 ## [3.1.0-monorepo.42](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.41...cr-mnr-core@3.1.0-monorepo.42) (2021-10-26)
 
 ### Bug Fixes
