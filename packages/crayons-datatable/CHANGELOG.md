@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0-monorepo.36](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.33...cr-mnr-datatable@2.1.0-monorepo.36) (2021-10-26)
+
+
+### Features
+
+* **fw-btn fw-btn1:** btn changes ([43e173f](https://github.com/arvindanta/crayons/commit/43e173fb8be6d8a008757d0bb2cfb3816173575a))
+
+
+
+
+
 ## [2.1.0-monorepo.31](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.29...cr-mnr-datatable@2.1.0-monorepo.31) (2021-10-26)
 
 ### Bug Fixes
