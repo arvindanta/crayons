@@ -3,16 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.1.0-monorepo.38](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.37...cr-mnr-core@3.1.0-monorepo.38) (2021-10-26)
-
+## [3.1.0-monorepo.38](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.37...cr-mnr-core@3.1.0-monorepo.38) (2021-10-26)
 
 ### Bug Fixes
 
-* **fw-btn12s:** sd ([c5588b9](https://github.com/arvindanta/crayons/commit/c5588b982488a51fa55cd96452a40b3f2227672d))
-
-
-
-
+- **fw-btn12s:** sd ([c5588b9](https://github.com/arvindanta/crayons/commit/c5588b982488a51fa55cd96452a40b3f2227672d))
 
 ## [3.1.0-monorepo.37](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.36...cr-mnr-core@3.1.0-monorepo.37) (2021-10-26)
 
