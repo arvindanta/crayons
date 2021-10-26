@@ -3,22 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.1.0-monorepo.41](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.38...cr-mnr-core@3.1.0-monorepo.41) (2021-10-26)
-
+## [3.1.0-monorepo.41](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.38...cr-mnr-core@3.1.0-monorepo.41) (2021-10-26)
 
 ### Bug Fixes
 
-* **fwbtn:** asd ([e68cf2d](https://github.com/arvindanta/crayons/commit/e68cf2db6e97e5ca06a8785aee4877c8273eaec3))
-
+- **fwbtn:** asd ([e68cf2d](https://github.com/arvindanta/crayons/commit/e68cf2db6e97e5ca06a8785aee4877c8273eaec3))
 
 ### Features
 
-* **fw-bsn:** asd ([6f28191](https://github.com/arvindanta/crayons/commit/6f28191081256a917777cd0f36791afcd2d716ae))
-* **fw-btn fw-btn1:** btn changes ([43e173f](https://github.com/arvindanta/crayons/commit/43e173fb8be6d8a008757d0bb2cfb3816173575a))
-
-
-
-
+- **fw-bsn:** asd ([6f28191](https://github.com/arvindanta/crayons/commit/6f28191081256a917777cd0f36791afcd2d716ae))
+- **fw-btn fw-btn1:** btn changes ([43e173f](https://github.com/arvindanta/crayons/commit/43e173fb8be6d8a008757d0bb2cfb3816173575a))
 
 ## [3.1.0-monorepo.40](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.38...cr-mnr-core@3.1.0-monorepo.40) (2021-10-26)
 
