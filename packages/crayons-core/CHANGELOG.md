@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.1](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.3.0...cr-mnr-core@3.3.1) (2021-10-26)
+
+
+### Bug Fixes
+
+* **fw-btn12:** btn fix ([19943b8](https://github.com/arvindanta/crayons/commit/19943b837a0f0e9d2372fee42ccf3a96dd6e41eb))
+
+
+
+
+
 ## 3.3.0 (2021-10-26)
 
 ### Features
