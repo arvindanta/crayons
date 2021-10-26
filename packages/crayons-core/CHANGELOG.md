@@ -3,27 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.3.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.2.0...cr-mnr-core@3.3.0) (2021-10-26)
-
-
-### Features
-
-* **fwbtn1:** bss ([02368a7](https://github.com/arvindanta/crayons/commit/02368a77e24ca79e19724066415318088e085e2f))
-
-
-
-
-
-# [3.2.0](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0...cr-mnr-core@3.2.0) (2021-10-26)
-
+## 3.3.0 (2021-10-26)
 
 ### Features
 
-* **fw-button:** btn chan ([2af53ce](https://github.com/arvindanta/crayons/commit/2af53ce1341add869b6a8140f12fa81a9cf92feb))
+- **fwbtn1:** bss ([02368a7](https://github.com/arvindanta/crayons/commit/02368a77e24ca79e19724066415318088e085e2f))
 
+## 3.2.0 (2021-10-26)
 
+### Features
 
-
+- **fw-button:** btn chan ([2af53ce](https://github.com/arvindanta/crayons/commit/2af53ce1341add869b6a8140f12fa81a9cf92feb))
 
 ## [3.1.0-monorepo.42](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.1.0-monorepo.41...cr-mnr-core@3.1.0-monorepo.42) (2021-10-26)
 
