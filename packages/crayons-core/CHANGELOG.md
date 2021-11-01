@@ -3,16 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [3.3.2](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.3.1...cr-mnr-core@3.3.2) (2021-11-01)
-
+## 3.3.2 (2021-11-01)
 
 ### Bug Fixes
 
-* **react-wrapper:** import custom elements based on release channel ([f4018d8](https://github.com/arvindanta/crayons/commit/f4018d8e59d22e4d8a75766b852e24be56065391))
-
-
-
-
+- **react-wrapper:** import custom elements based on release channel ([f4018d8](https://github.com/arvindanta/crayons/commit/f4018d8e59d22e4d8a75766b852e24be56065391))
 
 ## 3.3.1 (2021-10-26)
 
