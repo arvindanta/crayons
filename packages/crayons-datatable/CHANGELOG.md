@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.4](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.3...cr-mnr-datatable@2.1.4) (2021-11-01)
+
+
+### Bug Fixes
+
+* **react-wrapper:** import custom elements based on release channel ([f4018d8](https://github.com/arvindanta/crayons/commit/f4018d8e59d22e4d8a75766b852e24be56065391))
+
+
+
+
+
 ## [2.1.0-monorepo.37](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.0-monorepo.36...cr-mnr-datatable@2.1.0-monorepo.37) (2021-10-26)
 
 ### Bug Fixes
