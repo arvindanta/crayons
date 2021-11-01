@@ -3,14 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [3.3.4](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.3.3...cr-mnr-core@3.3.4) (2021-11-01)
-
-**Note:** Version bump only for package cr-mnr-core
-
-
-
-
-
 ## 3.3.3 (2021-11-01)
 
 ### Reverts
