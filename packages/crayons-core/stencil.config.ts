@@ -5,6 +5,11 @@ import { sass } from '@stencil/sass';
 import { generateJsonDocs } from './customElementDocGenerator';
 
 const packageName = 'crayons';
+let componentCorePackage = `cr-mnr-core`; // name in the package.json should be used
+if (process.env.releaseChannel) {
+  componentCorePackage += `@${process.env.releaseChannel}`;
+}
+
 export const config: Config = {
   autoprefixCss: true,
   namespace: packageName,
@@ -50,7 +55,7 @@ export const config: Config = {
       file: 'dist/docs.json',
     },
     reactOutputTarget({
-      componentCorePackage: `cr-mnr-core`, // name in the package.json should be used
+      componentCorePackage,
       proxiesFile: './crayons-react/src/components.ts',
 
       // lazy load -> code splitting
