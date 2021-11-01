@@ -3,16 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.1.5](https://github.com/arvindanta/crayons/compare/cr-mnr-datatable@2.1.4...cr-mnr-datatable@2.1.5) (2021-11-01)
-
+## 2.1.5 (2021-11-01)
 
 ### Reverts
 
-* **react-wrapper:** reverting import changes for react-wrapper custom element import ([f9bfa61](https://github.com/arvindanta/crayons/commit/f9bfa6105fcc3ad8a947163e69ec5534790a1f99))
-
-
-
-
+- **react-wrapper:** reverting import changes for react-wrapper custom element import ([f9bfa61](https://github.com/arvindanta/crayons/commit/f9bfa6105fcc3ad8a947163e69ec5534790a1f99))
 
 ## 2.1.4 (2021-11-01)
 
