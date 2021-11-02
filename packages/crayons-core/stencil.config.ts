@@ -54,13 +54,13 @@ export const config: Config = {
       componentCorePackage: 'cr-mnr-core',
       proxiesFile: './crayons-react/src/components.ts',
 
-      // lazy load -> code splitting
-      // includeDefineCustomElements: true,
+      //lazy load -> code splitting
+      includeDefineCustomElements: true,
       // includePolyfills: true,
 
       // tree shakable, need to use setassetpath
-      customElementsDir: 'dist/components',
-      includeImportCustomElements: true,
+      // customElementsDir: 'dist/components',
+      // includeImportCustomElements: true,
     }),
   ],
   plugins: [
