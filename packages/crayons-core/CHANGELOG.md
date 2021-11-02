@@ -3,16 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [3.3.5](https://github.com/arvindanta/crayons/compare/cr-mnr-core@3.3.4...cr-mnr-core@3.3.5) (2021-11-02)
-
+## 3.3.5 (2021-11-02)
 
 ### Bug Fixes
 
-* **react-wrapper:** lazy load wrapepr ([dc559bf](https://github.com/arvindanta/crayons/commit/dc559bf80897fec19d8ef5c23c83212cf70e079b))
-
-
-
-
+- **react-wrapper:** lazy load wrapepr ([dc559bf](https://github.com/arvindanta/crayons/commit/dc559bf80897fec19d8ef5c23c83212cf70e079b))
 
 ## 3.3.3 (2021-11-01)
 
